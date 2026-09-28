@@ -80,7 +80,7 @@ export function DynamicRenderer({ codeString, source, targetField, onReset }: Dy
         className="w-full max-w-4xl mx-auto space-y-3"
       >
         {/* Healed UI notice */}
-        <div className="flex items-center justify-between gap-4 px-4 py-3 bg-emerald-500/8 border border-emerald-500/20 rounded-xl">
+        <div className="flex items-center justify-between gap-4 px-4 py-3 bg-emerald-500/10 border border-emerald-500/20 rounded-xl">
           <div className="flex items-center gap-3 min-w-0">
             <div className="flex items-center gap-1.5 shrink-0">
               <span className="h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
